@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>  
   <a href="https://dev.to/zubair12/">
-   < img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fbrand&psig=AOvVaw1iQlh4YcMtVlvasQvnPleE&ust=1618511981823000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj7-Puw_u8CFQAAAAAdAAAAABAD/>
+   
   </a>
 </div> 
 

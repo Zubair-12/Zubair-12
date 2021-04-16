@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>  
   <a href="https://dev.to/zubair12/">
-   <img src=https://img.shields.io/badge/dev-%0101.svg?&style=for-the-badge&logo=dev&logoColor=black alt=dev  />
+   <img src=https://img.shields.io/badge/dev-%2324292e.svg?&style=for-the-badge&logo=dev&logoColor=white alt=dev />
    <img src="https://dev.to/social_previews/user/491290.png">
   </a>
 </div> 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Hi friends I am Zubair Ahmed from Pakistan. I am a Software Engineering Student.
-### I am learning SQL and DataStructure and Algorithm at school.
+### I am learning DataStructure and Algorithm.
 ### On the other hand I am exploring Web Development. Any help in this field will be appreciated 🤝!
 ### I am always available on my social media accounts:
 <div align="center">

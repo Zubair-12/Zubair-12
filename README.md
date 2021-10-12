@@ -3,7 +3,6 @@
 ### I am hack club lead at my campus!
 ### I am angelhack ambassador!
 ### I am learning DataStructure and Algorithm.
-### On the other hand I am exploring Web Development.
 ### I am always available on my social media accounts:
 <div align="center">
 <a href="https://twitter.com/Zubair24140407" target="_blank">

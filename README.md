@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Hi friends I am Zubair Ahmed from Pakistan. I am a Software Engineering Student.
 ### I am hack club lead at my campus!
-### I am Microsoft Learn Student Ambassador!
+### I am Beta Microsoft Learn Student Ambassador!
 ### GDSC Lead at MUET SZAB Campus 2022-2023
 ### I am angelhack ambassador!
 ### I am learning Android.

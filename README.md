@@ -15,7 +15,7 @@
 </a>  
   <a href="https://dev.to/zubair12/">
    <img src=https://img.shields.io/badge/dev-%2324292e.svg?&style=for-the-badge&logo=dev&logoColor=white alt=dev />
-   <img src="https://dev.to/social_previews/user/491290.png">
+
   </a>
 </div> 
 

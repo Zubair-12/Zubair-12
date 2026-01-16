@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Hi friends I am Zubair Ahmed from Pakistan. I am a Graduate Software Engineer .
-### I am learning Machine Learning, Data Science, Artifical Intelligence.
+### I am an Android Developer.
 ### I was hack club lead at my campus!
 ### I was Beta Microsoft Learn Student Ambassador!
 ### I was GDSC Lead at MUET SZAB Campus 2022-2023
